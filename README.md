@@ -2,7 +2,6 @@
 Percabangan dan Perulangan pada MySQL
 
 Tahapan:
-
-    Baca materi pada file : Percabangan & Perulangan - Pertemuan 3.pdf
-    Execute query sesuai pada materi jika ingin mencoba.
+1. Baca materi pada file : Percabangan & Perulangan - Pertemuan 3.pdf
+2. Execute query sesuai pada materi jika ingin mencoba.
 
